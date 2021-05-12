@@ -11,7 +11,7 @@
   "dependencies": {
     "express": "^4.17.1",
     "node-localstorage": "^2.1.6",
-    "nodemailer": "^6.4.10",
+    "nodemailer": "^6.4.16",
     "voucher-code-generator": "^1.1.1"
   }
 }
